@@ -4,4 +4,4 @@ The codebase has code for Dash-Plotly Dashboard along with Google Cloud App engi
 
 Feel free to watch the below video to understand how to deploy Dash-plotly Dashboard to Google Cloud.
 
-* [Deploy Dash-Plotly Dashboard to Google Cloud App Engine](https://www.youtube.com/@CoderzColumn)
+* [Deploy Dash-Plotly Dashboard to Google Cloud App Engine](https://www.youtube.com/watch?v=cmexkqJoOBU)
